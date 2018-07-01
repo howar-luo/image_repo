@@ -1,3 +1,3 @@
 # image_repo
 
-image repo for 
+image repo for markdown file of blog
